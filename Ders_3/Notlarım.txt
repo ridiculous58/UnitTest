@@ -1,0 +1,7 @@
+ExpectedException (Beklenen Hata)
+
+[ExpectedException (typeof(ArgumentException))] //birebir tip
+
+[ExpectedException (typeof(ArgumentException),AllowDerivedTypes = true)]//Turemiş tiplere izin ver
+
+Attribute Olarak Kullanılır

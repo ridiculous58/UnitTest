@@ -1,0 +1,29 @@
+TestContext Sayesinde Teste Ait Bilgileri Aliriz
+
+Describes = Açıklar;
+Benefits = Faydalar;
+Introduces = Tanıtımlar;
+Strategies = Stratejiler;
+Considerations = Düşünceler;
+Component = Bileşen;
+Describe: Açıklamak;
+Critical = Kritik;
+Provides = Sağlar;
+Stored = Saklanmiş;
+Which = Hangi;
+Safeguard = Koruma;
+Catastrophic = Felaket;
+Data loss = Data Kaybı;
+Preserve = Muhafaza Etmek,Korumak;
+Modification = Değişiklik;
+Basis = temel;
+Well = Iyi;
+Protect = Korumak;
+Against = Karşi;
+Caused = Neden oldu;
+Recovering = Kurtarmak,iyileşme;
+Disaster = Felaket;
+Then = Sonra;
+Addition = ilave(bunlara ek olarak)
+Support = Destek;
+stored = Saklanmiş Yuklenmiş

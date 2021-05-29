@@ -1,0 +1,15 @@
+//Iceriyormu
+StringAssert.Contains("ifade","varmi")
+
+//Regular Expression a gore test yapıyoruz
+StringAssert.Matches("",new Regex());
+
+//Regular Expression a gore test yapıyoruz
+StringAssert.DoesNotMatches("",new Regex());
+
+
+//Basliyormu
+StringAssert.StartsWith("ifade","kosul");
+
+//Bitiyormu
+StringAssert.EndsWith("ifade","kosul");

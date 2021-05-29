@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\bin\Debug\Helpers.dll
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\bin\Debug\Helpers.pdb
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.dll
+C:\Users\DELL\Desktop\UnitTest\Ders_1\CreatingFirstUnitTest\Helpers\obj\Debug\Helpers.pdb

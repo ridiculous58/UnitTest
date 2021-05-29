@@ -1,0 +1,27 @@
+TestInitialize:
+Her testen once bir metho calıstırmak istiyorsak o methodu 
+TestInitialize Attributuyla Suslemek gerekir
+
+TestCleanup
+Her TestMEthodundan sonra Calisacak TestCleanup attribute ile suslemek gerekir
+
+
+ClassInitialize:
+Her method için ayrı ayrı calismaz sadece bir kez calisir Oda Class ın baslangıcında
+method static olmalı ve Parametre olarak TestContext içermelidir
+
+
+ClassCleanup:
+Her method için ayrı ayrı calismaz sadece bir kez calisir Oda Class ın sonunda
+method static olmalıdir
+
+
+Hangi Class Ta oldugunun Onemi Yok Sadece birtane olmak zorunda
+AssemblyInitialize:
+Farkli test class ları olsa bile butun test boyunca bi kez çalışır oda test basladıgında
+Method static olmalıdır ve TestContext turunde parametresi olmalıdır
+
+AssemblyCleanup:
+Farkli test class ları olsa bile butun test boyunca bi kez çalışır oda test basladıgında
+Method static olmalıdır
+

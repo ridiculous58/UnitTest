@@ -1,0 +1,10 @@
+//Veri temelli Test yapmak için DataSource Attribute unu kullanırız
+
+[DataSource
+("Microsoft.VisualStudio.TestTools.DataSource.XML veya CSV",
+path,
+SatirName,
+DataAccessMethod.Sequential
+)]
+
+path debug içine at

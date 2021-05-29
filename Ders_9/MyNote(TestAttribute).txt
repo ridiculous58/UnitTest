@@ -1,0 +1,21 @@
+//TestMethodunun Sahibini belirtir
+[Owner]
+
+//Testimizi Category e gruplamak icin birden fazla verilebilir
+[TestCategory]
+
+//Oncelik sirasina gore gruplamak için kullanılır
+[Priority]
+
+//"Guncelleyen" , "Engin"
+[TestProperty]
+
+//Goz ardi et bir testi pas etmek için kullanılır
+[Ignore]
+
+//test methodu bir saniyeden fazla ise timeout a girsin ve test fail olsun
+[Timeout(1000 milisecond)]
+
+
+//Tamamen acıklama için girilen attribute tur
+[Decription]

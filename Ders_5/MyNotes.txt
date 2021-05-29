@@ -1,0 +1,42 @@
+//Elemanlar Ve Sırası Aynı Olmalıdır
+CollectionAssert.AreEqual();
+
+
+//Elemanlar Aynı Olmalıdır ,Sırası onemli değildir
+CollectionAssert.AreEquivalent()
+
+
+//Elemanlar ve sırası Aynı olmamalıdır
+CollectionAssert.AreNotEqual()
+
+
+//Elemanlar Farklı Olmalıdır
+CollectionAssert.AreNotEquivalent()
+
+//Butun Elemanlar Null olmamalıdır, Null deger var ise test başarısız olur
+CollectionAssert.AllItemsAreNotNull(liste)
+
+//Gelen listede elemanlar unique olmasını ister
+//Aynı elemandan birden fazla var ise test basarısız olur
+CollectionAssert.AllItemsAreUnique(liste)
+
+
+//Tum Elemanların verdiğimiz tipin ornekleri olup olmadıgımı kontrol eder
+//Degilse Test Fail olur
+CollectionAssert.AllItemsAreInstancesOfType(liste,typeof(string));
+
+
+
+//Alt Kumesimi ?
+CollectionAssert.IsSubsetOf(evrenselkume,altkume)
+
+
+//Alt Kumesimi Değil mi ?
+CollectionAssert.IsNotSubsetOf()
+
+//Iceriyormu içeriyorsa true
+CollectionAssert.Contains()
+
+//Icermiyormu içermiyorsa true
+CollectionAssert.DoesNotContain()
+
